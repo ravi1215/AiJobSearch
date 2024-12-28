@@ -1,4 +1,4 @@
-<img width="1470" alt="Screenshot 2024-12-28 at 22 56 53" src="https://github.com/user-attachments/assets/7bddca0d-5b74-45d9-bf9a-046df34ddd6a" /># AiJobSearch || Job Scraping & Interview Prep AI
+# AiJobSearch || Job Scraping & Interview Prep AI
 
 This project is designed to automatically scrape job postings from career pages, analyze the required skills, and match them with a user's portfolio. It also generates relevant interview questions to help users prepare for job interviews.
 
